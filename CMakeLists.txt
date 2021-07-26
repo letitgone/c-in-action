@@ -6,3 +6,13 @@ set(CMAKE_C_STANDARD 99)
 add_executable(first hello/first.c)
 
 add_executable(input input/input.c)
+
+add_executable(cypher1 control/cypher1.c)
+
+add_executable(switch control/switch.c)
+
+add_executable(echo io/echo.c)
+
+add_executable(echo_eof io/echo_eof.c)
+
+add_executable(swap1 pointer/swap1.c)
