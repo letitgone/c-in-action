@@ -16,3 +16,11 @@ add_executable(echo io/echo.c)
 add_executable(echo_eof io/echo_eof.c)
 
 add_executable(swap1 pointer/swap1.c)
+
+add_executable(swap3 pointer/swap3.c)
+
+add_executable(day_mon2 array/day_mon2.c)
+
+add_executable(designate array/designate.c)
+
+add_executable(ptr_ops pointer/ptr_ops.c)
