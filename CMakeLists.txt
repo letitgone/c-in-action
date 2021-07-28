@@ -24,3 +24,7 @@ add_executable(day_mon2 array/day_mon2.c)
 add_executable(designate array/designate.c)
 
 add_executable(ptr_ops pointer/ptr_ops.c)
+
+add_executable(array_data pointer/array_data.c)
+
+add_executable(zippo1 pointer/zippo1.c)
