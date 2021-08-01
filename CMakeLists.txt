@@ -30,3 +30,7 @@ add_executable(array_data pointer/array_data.c)
 add_executable(zippo1 pointer/zippo1.c)
 
 add_executable(sum_arr1 pointer/sum_arr1.c)
+
+add_executable(arf pointer/arf.c)
+
+add_executable(test test/test.c)
