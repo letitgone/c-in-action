@@ -34,3 +34,5 @@ add_executable(sum_arr1 pointer/sum_arr1.c)
 add_executable(arf pointer/arf.c)
 
 add_executable(test test/test.c)
+
+add_executable(p_and_s string/p_and_s.c)
