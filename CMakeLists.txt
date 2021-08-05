@@ -36,3 +36,9 @@ add_executable(arf pointer/arf.c)
 add_executable(test test/test.c)
 
 add_executable(p_and_s string/p_and_s.c)
+
+add_executable(repeat string/repeat.c)
+
+add_executable(parta storage/parta.c)
+
+add_executable(partb storage/partb.c)
