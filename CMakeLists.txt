@@ -42,3 +42,5 @@ add_executable(repeat string/repeat.c)
 add_executable(parta storage/parta.c)
 
 add_executable(partb storage/partb.c)
+
+add_executable(count io/count.c)
