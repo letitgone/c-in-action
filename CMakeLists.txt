@@ -44,3 +44,5 @@ add_executable(parta storage/parta.c)
 add_executable(partb storage/partb.c)
 
 add_executable(count io/count.c)
+
+add_executable(main main.c)
