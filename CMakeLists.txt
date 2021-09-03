@@ -46,3 +46,6 @@ add_executable(partb storage/partb.c)
 add_executable(count io/count.c)
 
 add_executable(main main.c)
+
+add_executable(search_file file/search_file.c)
+add_executable(strcat_pointer string/strcat_pointer.c)
